@@ -1,0 +1,6 @@
+{
+  "name": "@monorepo-tools/config-loader",
+  "version": "0.4.1",
+  "main": "index.js",
+  "dependencies": { "cosmiconfig": "^9.0.0" }
+}
